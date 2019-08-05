@@ -1,8 +1,8 @@
 # basic-electron-app
 
 This is a basic Electron app that is most useful as a template or starting point  
-for building other Electron apps. It is essentially the same as the Electrate  
-template[https://github.com/mmick66/electrate] with a few small differences like app structure, coding style and setting  
+for building other Electron apps. It is essentially the same as the [Electrate  
+template](https://github.com/mmick66/electrate) with a few small differences like app structure, coding style and setting  
 up App.js as a pure functional component rather than a classical one.
 
 ## Installation and Set Up  
@@ -19,13 +19,13 @@ Below are the instructions for installing this application.
   2. Clone your fork of the basic-electron-app repo.  
     1. In the terminal on your local environment, navigate to the directory where  
     you want to clone the basic-electron-app repo  
-      `cd ~/path/to/your/directory`
+      `cd ~/path/to/your/directory`  
     2. In the terminal, run:  
-      `git clone [clone-url-for-your-fork]`
+      `git clone [clone-url-for-your-fork]`  
       The URL should be in the format git@github.com:YourUsername/basic-electron-app.git  
 
 ## Application Use  
 1. Install the dependencies.  
-  `npm install`
+  `npm install`  
 2. Run the application.  
-  `npm start`
+  `npm start`  
